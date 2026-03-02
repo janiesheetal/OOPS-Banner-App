@@ -1,16 +1,15 @@
 package com.oopsbanner;
-/**
- * OOPSBannerApp
- *
- * This application prints the literal text "OOPS" to the console.
- *
- * @author Janie
- * @version 1.0
- */
+
 public class OOPSBannerApp {
-
     public static void main(String[] args) {
-        System.out.println("OOPS");
-    }
 
+        System.out.println(" *****   *****   *****   ***** ");
+        System.out.println("*     * *     * *     * *     ");
+        System.out.println("*     * *     * *     * *     ");
+        System.out.println("*     * *     * *****   ***** ");
+        System.out.println("*     * *     * *            *");
+        System.out.println("*     * *     * *            *");
+        System.out.println(" *****   *****  *       ***** ");
+
+    }
 }
